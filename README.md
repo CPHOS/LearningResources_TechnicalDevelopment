@@ -1,4 +1,4 @@
-﻿# CPHOS 技术组新同学学习指南
+# CPHOS 技术组新同学学习指南
 
 ## 这份指南是给谁的
 
@@ -375,5 +375,6 @@ Agent 不只是“会聊天的模型”，而是：
 请记住一句话：
 
 **AI 可以帮你更快，但不能帮你免掉理解和验证。**
-#   L e a r n i n g R e s o u r c e s _ T e c h n i c a l D e v e l o p m e n t  
+#   L e a r n i n g R e s o u r c e s _ T e c h n i c a l D e v e l o p m e n t 
+ 
  
